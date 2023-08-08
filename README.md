@@ -32,10 +32,10 @@ You can try **Whack-a-Mole** by opening the `index.html` file in your browser.
 
 ## 🌟 Credits
 
-**Whack-a-Mole Game** was created by the GameMole Team. We hope you have a blast whacking those moles!
+**Whack-a-Mole Game** was created by the Highbeek. I hope you have a blast whacking those moles!
 
 ## 📝 Feedback and Contributions
 
-We welcome feedback and suggestions to improve the game. If you'd like to contribute to the project, feel free to create an issue or submit a pull request. Have fun whacking moles and aiming for a high score!
+I welcome feedback and suggestions to improve the game. If you'd like to contribute to the project, feel free to create an issue or submit a pull request. Have fun whacking moles and aiming for a high score!
 
 **Note:** This game is meant for entertainment and amusement purposes. It is inspired by the classic arcade game "Whack-a-Mole."
